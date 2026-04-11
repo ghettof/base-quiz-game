@@ -120,6 +120,9 @@ export default function Home() {
   return (
     <main className="min-h-screen bg-black flex flex-col items-center justify-center text-white p-6">
       <div className="bg-zinc-900 rounded-2xl p-8 max-w-md w-full shadow-xl">
+        <button onClick={restart} className="text-zinc-400 hover:text-white mb-4 flex items-center gap-1 text-sm transition">
+          ← Kategoriler
+        </button>
         <div className="flex justify-between items-center mb-6">
           <span className="text-zinc-400 text-sm">Soru {current + 1} / {qs.length}</span>
           <span className="text-blue-400 font-bold">Skor: {score}</span>
