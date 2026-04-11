@@ -3,5 +3,14 @@
     "header": "eyJmaWQiOjQ1MDQ1MiwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDY1MkI3OEEyZkIzQzc3NkI3OThFODg4QTE0MTBlNWNjREU4MTE4MzQifQ",
     "payload": "eyJkb21haW4iOiJiYXNlLXF1aXotZ2FtZS13a3BsLnZlcmNlbC5hcHAifQ",
     "signature": "lTPuLPsfLmg9ZlWJ3B0QtmFk3SLXGzqDdnafVRa5w+tL45u+ZbfcBVNJgWyKKRrgpXv4T1Xdm6oZv/ouCoiTZhw="
+  },
+  "miniapp": {
+    "version": "1",
+    "name": "Base Quiz Game",
+    "description": "Base hakkinda eglenceli bir quiz oyunu",
+    "homeUrl": "https://base-quiz-game-wkpl.vercel.app",
+    "iconUrl": "https://base-quiz-game-wkpl.vercel.app/icon.png",
+    "canonicalDomain": "base-quiz-game-wkpl.vercel.app",
+    "tags": ["quiz", "base", "game"]
   }
 }
