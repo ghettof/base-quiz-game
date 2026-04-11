@@ -11,6 +11,7 @@
     "homeUrl": "https://base-quiz-game-wkpl.vercel.app",
     "iconUrl": "https://base-quiz-game-wkpl.vercel.app/icon.png",
     "canonicalDomain": "base-quiz-game-wkpl.vercel.app",
+    "primaryCategory": "games",
     "tags": ["quiz", "base", "game"]
   }
 }
