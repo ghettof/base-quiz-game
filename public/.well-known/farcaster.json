@@ -7,11 +7,16 @@
   "miniapp": {
     "version": "1",
     "name": "Base Quiz Game",
-    "description": "Base hakkinda eglenceli bir quiz oyunu",
+    "subtitle": "Base, Kripto ve DeFi Quiz",
+    "description": "Base, Kripto ve DeFi hakkında eğlenceli bir quiz oyunu. 3 kategori, 21 soru!",
     "homeUrl": "https://base-quiz-game-wkpl.vercel.app",
     "iconUrl": "https://base-quiz-game-wkpl.vercel.app/icon.png",
+    "imageUrl": "https://base-quiz-game-wkpl.vercel.app/splash.png",
+    "splashImageUrl": "https://base-quiz-game-wkpl.vercel.app/splash.png",
+    "splashBackgroundColor": "#0a0a14",
+    "buttonTitle": "Oyna! 🎮",
     "canonicalDomain": "base-quiz-game-wkpl.vercel.app",
     "primaryCategory": "games",
-    "tags": ["quiz", "base", "game"]
+    "tags": ["quiz", "base", "game", "crypto", "defi"]
   }
 }
